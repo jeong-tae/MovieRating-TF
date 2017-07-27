@@ -6,6 +6,8 @@ This repository aim to implement "Matchbox: Large Scale Online Bayesian Recommen
 
 At present, only bilinear operation only support. other factorizing method will be implement soon(i'm not familiar with bayesian model)
 
+RMSE: about 1.1
+
 ## Prerequisites
     - python 2.7
     - tensorflow 1.1
