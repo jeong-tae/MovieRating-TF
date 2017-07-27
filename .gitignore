@@ -1,0 +1,13 @@
+# data
+data
+dataset
+*.tgz
+*.zip
+*.tar.gz
+*.pkl
+*.npy
+
+# e.t.c
+checkpoints
+*.swp
+*.pyc
